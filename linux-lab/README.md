@@ -1,17 +1,21 @@
 # Linux Lab - Repositorio de Aprendizaje
 
 ## Estudiante
-** Nombre :** [JOEL COLQUE FLORES ]
-** Universidad :** Universidad Tecnica de Oruro
-** Semestre :** I /2026
+
+- **Nombre :** [JOEL COLQUE FLORES ]
+- **Universidad :** Universidad Tecnica de Oruro
+- **Semestre :** I /2026
 
 ## Descripcion
-Repositorio de aprendizaje Linux en 15 semanas .
-Cada semana incluye un capstone practico versionado con Git
-.
+
+- Repositorio de aprendizaje Linux en 15 semanas .
+- Cada semana incluye un capstone practico versionado con Git
+
 ## Progreso del Curso
+
+
 | Semana |  		      Tema	    	       |Estado|
-| - - - -| - - - - - - - - - - - - - - - | - - -|
+|---|--- |---|
 | 	01	 | Fundamentos + Git             |      |
 |   02 	 | Manipulacion de Archivos	     | 		  |
 |  	03	 | Procesamiento de Texto	       |		  |
@@ -29,17 +33,17 @@ Cada semana incluye un capstone practico versionado con Git
 | 	15 	 | Proyecto Final		             |   	  |
 ## Estructura del Repositorio
 ‘‘‘
-linux - lab /
-README . md
-. gitignore
-semana01 /
-README . md
-filesystem - map . md
-filesystem - diagram . txt
-ejemplos - practicos . md
-semana02 /
-( por completar )
-...
+linux - lab /  
+README . md  
+. gitignore  
+semana01 /  
+README . md  
+filesystem - map . md  
+filesystem - diagram . txt  
+ejemplos - practicos . md  
+semana02 /  
+( por completar )  
+...  
 ‘‘‘
 
 ## Objetivos del Curso
@@ -49,12 +53,12 @@ semana02 /
 - Construir portfolio en GitHub
 
 ## Tecnologias
-- ** OS :** [ Coloque su Sistema Operativo donde realizo el
+- **OS :** [ Coloque su Sistema Operativo donde realizo el
 Capstone ]
-- ** Shell :** Bash 5. x
-- ** VCS :** Git 2. x
-- ** Editor :** vim / nano
-- ** Hosting :** GitHub
+- **Shell :** Bash 5. x
+- **VCS :** Git 2. x
+- **Editor :** vim / nano
+- **Hosting :** GitHub
 
 ## Contacto
 - Email : [ joel.colque@sistemas.edu.bo ]
