@@ -1,0 +1,26 @@
+organized/:
+total 24
+drwxrwxr-x 2 oem oem 4096 may 26 00:12 config
+drwxrwxr-x 2 oem oem 4096 may 26 00:12 documents
+drwxrwxr-x 2 oem oem 4096 may 26 00:12 images
+drwxrwxr-x 2 oem oem 4096 may 26 00:12 logs
+drwxrwxr-x 2 oem oem 4096 may 26 00:12 scripts
+drwxrwxr-x 2 oem oem 4096 may 26 00:12 temp
+
+organized/config:
+total 0
+
+organized/documents:
+total 0
+
+organized/images:
+total 0
+
+organized/logs:
+total 0
+
+organized/scripts:
+total 0
+
+organized/temp:
+total 0

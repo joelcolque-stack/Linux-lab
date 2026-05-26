@@ -1,0 +1,9 @@
+organized/
+├── config
+├── documents
+├── images
+├── logs
+├── scripts
+└── temp
+
+7 directories, 0 files

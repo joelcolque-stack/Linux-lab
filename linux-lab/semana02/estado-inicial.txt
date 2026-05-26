@@ -1,0 +1,56 @@
+total 204K
+-rw-rw-r-- 1 oem oem   62 may 25 23:20  app_1 . log 
+-rw-rw-r-- 1 oem oem   62 may 25 23:20  app_2 . log 
+-rw-rw-r-- 1 oem oem   62 may 25 23:20  app_3 . log 
+-rw-rw-r-- 1 oem oem   33 may 25 23:20  config_1 . conf 
+-rw-rw-r-- 1 oem oem   33 may 25 23:20  config_2 . conf 
+-rw-rw-r-- 1 oem oem   33 may 25 23:20  config_3 . conf 
+-rw-rw-r-- 1 oem oem   33 may 25 23:20  config_4 . conf 
+-rw-rw-r-- 1 oem oem   24 may 25 23:20  documento_1 . txt 
+-rw-rw-r-- 1 oem oem   24 may 25 23:20  documento_2 . txt 
+-rw-rw-r-- 1 oem oem   24 may 25 23:20  documento_3 . txt 
+-rw-rw-r-- 1 oem oem   24 may 25 23:20  documento_4 . txt 
+-rw-rw-r-- 1 oem oem   24 may 25 23:20  documento_5 . txt 
+-rw-rw-r-- 1 oem oem   16 may 25 23:20  foto_1 . jpg 
+-rw-rw-r-- 1 oem oem   16 may 25 23:20  foto_2 . jpg 
+-rw-rw-r-- 1 oem oem   16 may 25 23:20  foto_3 . jpg 
+-rw-rw-r-- 1 oem oem   16 may 25 23:20  foto_4 . jpg 
+-rw-rw-r-- 1 oem oem   16 may 25 23:20  foto_5 . jpg 
+-rw-rw-r-- 1 oem oem   12 may 25 23:20  notas_1 . md 
+-rw-rw-r-- 1 oem oem   12 may 25 23:20  notas_2 . md 
+-rw-rw-r-- 1 oem oem   12 may 25 23:20  notas_3 . md 
+-rw-rw-r-- 1 oem oem   12 may 25 23:20  notas_4 . md 
+-rw-rw-r-- 1 oem oem   12 may 25 23:20  notas_5 . md 
+-rw-rw-r-- 1 oem oem   12 may 25 23:20  reporte_1 . doc 
+-rw-rw-r-- 1 oem oem   12 may 25 23:20  reporte_2 . doc 
+-rw-rw-r-- 1 oem oem   12 may 25 23:20  reporte_3 . doc 
+-rw-rw-r-- 1 oem oem   12 may 25 23:20  reporte_4 . doc 
+-rw-rw-r-- 1 oem oem   12 may 25 23:20  reporte_5 . doc 
+-rw-rw-r-- 1 oem oem   16 may 25 23:20  screenshot_1 . png 
+-rw-rw-r-- 1 oem oem   16 may 25 23:20  screenshot_2 . png 
+-rw-rw-r-- 1 oem oem   16 may 25 23:20  screenshot_3 . png 
+-rw-rw-r-- 1 oem oem   16 may 25 23:20  screenshot_4 . png 
+-rw-rw-r-- 1 oem oem   16 may 25 23:20  screenshot_5 . png 
+-rw-rw-r-- 1 oem oem   31 may 25 23:20  script_1 . sh 
+-rw-rw-r-- 1 oem oem   31 may 25 23:20  script_2 . sh 
+-rw-rw-r-- 1 oem oem   31 may 25 23:20  script_3 . sh 
+-rw-rw-r-- 1 oem oem   31 may 25 23:20  script_4 . sh 
+-rw-rw-r-- 1 oem oem   31 may 25 23:20  script_5 . sh 
+-rw-rw-r-- 1 oem oem   22 may 25 23:20  settings_1 . json 
+-rw-rw-r-- 1 oem oem   22 may 25 23:20  settings_2 . json 
+-rw-rw-r-- 1 oem oem   22 may 25 23:20  settings_3 . json 
+-rw-rw-r-- 1 oem oem   22 may 25 23:20  settings_4 . json 
+-rw-rw-r-- 1 oem oem   57 may 25 23:20  sistema_1 . log 
+-rw-rw-r-- 1 oem oem   57 may 25 23:20  sistema_2 . log 
+-rw-rw-r-- 1 oem oem   57 may 25 23:20  sistema_3 . log 
+-rw-rw-r-- 1 oem oem   57 may 25 23:20  sistema_4 . log 
+-rw-rw-r-- 1 oem oem   35 may 25 23:20  utilidad_1 . py 
+-rw-rw-r-- 1 oem oem   35 may 25 23:20  utilidad_2 . py 
+-rw-rw-r-- 1 oem oem   35 may 25 23:20  utilidad_3 . py 
+-rw-rw-r-- 1 oem oem   35 may 25 23:20  utilidad_4 . py 
+-rw-rw-r-- 1 oem oem   35 may 25 23:20  utilidad_5 . py 
+-rw-rw-r-- 1 oem oem    0 may 25 22:40 analisis-permisos.md
+-rw-rw-r-- 1 oem oem    0 may 25 23:21 estado-inicial.txt
+-rwxrwxr-x 1 oem oem 1,5K may 25 23:19 generate-messy-files.sh
+-rw-rw-r-- 1 oem oem    0 may 25 22:39 organize-files.sh
+-rw-rw-r-- 1 oem oem    0 may 25 22:39 README.md
