@@ -1,7 +1,7 @@
 # Linux Lab - Repositorio de Aprendizaje
 
 ## Estudiante
-** Nombre :** [ Tu Nombre ]
+** Nombre :** [JOEL COLQUE FLORES ]
 ** Universidad :** Universidad Tecnica de Oruro
 ** Semestre :** I /2026
 
@@ -10,23 +10,23 @@ Repositorio de aprendizaje Linux en 15 semanas .
 Cada semana incluye un capstone practico versionado con Git
 .
 ## Progreso del Curso
-|     Semana 	 | 		Tema		 |     Estado	 |
-| - - - - - - - -| - - - - - - - - - - - - - - - | - - - - - - - |
-| 	01	 | Fundamentos + Git 		 |		 |
-|       02 	 | Manipulacion de Archivos	 |		 |
-|  	03	 | Procesamiento de Texto	 |		 |
-| 	04	 | Editores y Configuracion	 |		 |
-| 	05 	 | Bash Scripting - Fundamentos	 |		 |
-| 	06 	 | Bash Scripting - Condicionales| 		 |
-| 	07 	 | Bash Scripting - Loops	 |		 |
-| 	08 	 | Bash Scripting - Avanzado	 |		 |
-| 	09 	 | Gestion de Procesos		 |		 |
-| 	10 	 | Systemd y Cron		 |		 |
-| 	11 	 | Gestion de Paquete		 |		 |
-| 	12 	 | Usuarios y Permisos		 |		 |
-| 	13 	 | Redes en Linux		 |		 |
-| 	14 	 | Seguridad y Hardening	 |		 |
-| 	15 	 | Proyecto Final		 | 	     	 |
+| Semana |  		      Tema	    	       |Estado|
+| - - - -| - - - - - - - - - - - - - - - | - - -|
+| 	01	 | Fundamentos + Git             |      |
+|   02 	 | Manipulacion de Archivos	     | 		  |
+|  	03	 | Procesamiento de Texto	       |		  |
+| 	04	 | Editores y Configuracion	     |		  |
+| 	05 	 | Bash Scripting - Fundamentos	 |		  |
+| 	06 	 | Bash Scripting - Condicionales| 		  |
+| 	07 	 | Bash Scripting - Loops	       |		  |
+| 	08 	 | Bash Scripting - Avanzado	   |      |
+| 	09 	 | Gestion de Procesos		       |		  |
+| 	10 	 | Systemd y Cron		             |		  |
+| 	11 	 | Gestion de Paquete		         |   	  |
+| 	12 	 | Usuarios y Permisos		       |		  |
+| 	13 	 | Redes en Linux		             |		  |
+| 	14 	 | Seguridad y Hardening	       |		  |
+| 	15 	 | Proyecto Final		             |   	  |
 ## Estructura del Repositorio
 ‘‘‘
 linux - lab /
@@ -57,6 +57,6 @@ Capstone ]
 - ** Hosting :** GitHub
 
 ## Contacto
-- Email : [ tu email ]
-- GitHub : https :// github . com / TU - USUARIO
-- LinkedIn : [ tu perfil 
+- Email : [ joel.colque@sistemas.edu.bo ]
+- GitHub : https :// github . com / joelcolque-stack
+- LinkedIn : [(https://github.com/joelcolque-stack)
