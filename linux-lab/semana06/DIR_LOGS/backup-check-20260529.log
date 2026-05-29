@@ -1,0 +1,6 @@
+[2026-05-29 00:18:19] [INFO   ] === backup - check.sh v1.0.0 - Inicio ===
+[2026-05-29 00:18:19] [INFO   ] Directorio objetivo: /home/oem/backup-prueba
+[2026-05-29 00:18:19] [INFO   ] Verificando directorio: /home/oem/backup-prueba
+[2026-05-29 00:18:19] [OK     ] Directorio accesible: /home/oem/backup-prueba
+[2026-05-29 00:18:19] [INFO   ] Buscando archivos de backup (*.tar.gz)...
+[2026-05-29 00:18:19] [ERROR  ] No se encontraron archivos .tar.gz en /home/oem/backup-prueba 
