@@ -1,0 +1,46 @@
+0000000000000000000000000000000000000000 ccd40d1d3c6683ee9c789cff32fb0ce1e7148d9c Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1777518194 -0300	commit (initial): feat : add filesystem structure documentation
+ccd40d1d3c6683ee9c789cff32fb0ce1e7148d9c ebb53d99280f5281408951d9fd96d0e9613834c8 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1777519844 -0300	commit: docs: add visual filesystem diagram
+ebb53d99280f5281408951d9fd96d0e9613834c8 1ab7edd8029b5d716e561760014e76c78edcdea7 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1777520272 -0300	commit: docs: add practical navigation examples
+1ab7edd8029b5d716e561760014e76c78edcdea7 97425b3d420b86b6a3c73d1b21a948adab5827b1 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1777520605 -0300	commit: docs: add week 01 README with overview
+97425b3d420b86b6a3c73d1b21a948adab5827b1 4f8f7e2d2c15af10630b3864b5037436ed1de4c3 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1777521292 -0300	commit: docs: add main repository README
+4f8f7e2d2c15af10630b3864b5037436ed1de4c3 adfd8893527a0a072601b4d0e624318f5f4f8bad Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1777521467 -0300	commit: chore: add comprehensive .gitignore
+adfd8893527a0a072601b4d0e624318f5f4f8bad 0000000000000000000000000000000000000000 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1777521610 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 adfd8893527a0a072601b4d0e624318f5f4f8bad Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1777521610 -0300	Branch: renamed refs/heads/master to refs/heads/main
+adfd8893527a0a072601b4d0e624318f5f4f8bad 828a6cd3c6e28db0fec8acb78cfec44d7d009ba6 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779759782 -0300	commit: feat: create week 02 directory structure
+828a6cd3c6e28db0fec8acb78cfec44d7d009ba6 b174a3a4ab6a3e50f1fc734330955f6db1455383 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779761248 -0300	commit: feat: add file generator script
+b174a3a4ab6a3e50f1fc734330955f6db1455383 56f857d1794e4d7c65e27ec603dc3849bc99895b Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779762123 -0300	commit: feat: document initial messy state
+56f857d1794e4d7c65e27ec603dc3849bc99895b 6e3e350b1a41c3715456fef1b8ab02728b4a49d4 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779762621 -0300	commit (amend): docs: document initial messy state
+6e3e350b1a41c3715456fef1b8ab02728b4a49d4 79e7255739bfc31ae65d18d88ab384fc2345a1df Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779763213 -0300	commit: feat: create directory structure in organizer
+79e7255739bfc31ae65d18d88ab384fc2345a1df b1a6d499d1aeb75976bd7f89c589361d6dc74dac Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779764709 -0300	commit: feat: add document organitation logic
+b1a6d499d1aeb75976bd7f89c589361d6dc74dac f4689d9963cae88d0b9f88fbc430df7c14455904 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779764816 -0300	commit: feat: add image organitation logic
+f4689d9963cae88d0b9f88fbc430df7c14455904 300fb759f5308091be7469d45fa017cb338101ac Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779764993 -0300	commit: feat: add scripts, config and logs organitation
+300fb759f5308091be7469d45fa017cb338101ac faeb97032272e51ed9b94f899ae097febc13497c Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779765128 -0300	commit: feat: add permission managment
+faeb97032272e51ed9b94f899ae097febc13497c b2f6ae9545830dee50fcf82762ca3f3befde3372 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779765367 -0300	commit: docs: document final structure and permissions
+b2f6ae9545830dee50fcf82762ca3f3befde3372 567d1aed7f34c28f4cbdf4b401560650ef6b65a4 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779766041 -0300	commit: docs: add detailed permission analysis
+567d1aed7f34c28f4cbdf4b401560650ef6b65a4 76f07df09b5cdbc56419f7823fd7745e45dfe682 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779766497 -0300	commit: docs: add comprehensive week 02 README
+76f07df09b5cdbc56419f7823fd7745e45dfe682 451777f18ead05b08012c40d7206a016cfd6e8f6 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779847253 -0300	commit: feat: create week 03 directory structure
+451777f18ead05b08012c40d7206a016cfd6e8f6 68e22cbbf7ab4b075e95b2723fde4e7a81416b5f Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779847490 -0300	commit: chore: ignore generated log and report files
+68e22cbbf7ab4b075e95b2723fde4e7a81416b5f 6dda38f10a9f07f6c2ff61123cd669f122e157e2 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779847980 -0300	commit: feat: add sample log generator script
+6dda38f10a9f07f6c2ff61123cd669f122e157e2 4174263c4ccb1182788094ef7008c7c25476488c Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779849776 -0300	commit: feat: add sample log generator script
+4174263c4ccb1182788094ef7008c7c25476488c 0c36cea2e822b3ecda8ac0f7d78738eb76d86e44 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779850906 -0300	commit: feat: add analyzer skeleton with entry count
+0c36cea2e822b3ecda8ac0f7d78738eb76d86e44 c582641f77c7e7c8b89db7d77bbf4958ddadc644 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779851176 -0300	commit: feat: add top 10 IP adresses section
+c582641f77c7e7c8b89db7d77bbf4958ddadc644 4e3f8c3a3096043d650fe0184dd59b713c9f3340 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779852552 -0300	commit: feat: add hourly event timeline
+4e3f8c3a3096043d650fe0184dd59b713c9f3340 eb06c7ba20e05606183bab45d23869e5932766f1 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779853072 -0300	commit: feat: add hourly event timeline ver4
+eb06c7ba20e05606183bab45d23869e5932766f1 3c4e50235e5ecb3d39cac2e99ffee70bd2b66a14 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779853444 -0300	commit: feat: add top 5 error messages section
+3c4e50235e5ecb3d39cac2e99ffee70bd2b66a14 6aa5e00052d8198cb97fa15d4dfb3ceba3c1601a Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779854150 -0300	commit: feat: add markdown report generation
+6aa5e00052d8198cb97fa15d4dfb3ceba3c1601a e2f98a77507dbefa09de872541c7a642a9e0b1c8 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779854934 -0300	commit: docs: add generated analydsis report
+e2f98a77507dbefa09de872541c7a642a9e0b1c8 999789faa87e16bde6c65343ed405687e6dc41ca Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779855562 -0300	commit: docs: add comprehensive week 03 README
+999789faa87e16bde6c65343ed405687e6dc41ca d10fb7e1c55a1bd3b8f7cbaf969abc04ebaeafd1 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779931112 -0300	commit: feat: create week 05 directory structure
+d10fb7e1c55a1bd3b8f7cbaf969abc04ebaeafd1 3fd0f238ea45b2d75744ce4af09c25ace93bfb22 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779932421 -0300	commit: feat: add sysinfo.sh skeleton with argument handling
+3fd0f238ea45b2d75744ce4af09c25ace93bfb22 740c9880048371e518134ff454244fd17245ac84 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779933108 -0300	commit: feat: add system info section (hostname,kernel,uptime)
+740c9880048371e518134ff454244fd17245ac84 4228c8986362624765619dfa9730d095600979fb Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779935687 -0300	commit: feat: add CPU and memory sections
+4228c8986362624765619dfa9730d095600979fb 8ad9f6c23e3eafd035f7d40ce37ef1b43bf9d71b Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779937638 -0300	commit: feat: add disk usage section
+8ad9f6c23e3eafd035f7d40ce37ef1b43bf9d71b a1f6333b0b012449dfa6a5857a0e972d2d5ef2ad Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779938811 -0300	commit: feat: add process summary section
+a1f6333b0b012449dfa6a5857a0e972d2d5ef2ad 777b6d73bbda475cb005d1c412d12dcf8ad3ad7e Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1779939814 -0300	commit: docs: add README and commands-used documentation
+777b6d73bbda475cb005d1c412d12dcf8ad3ad7e f52839f1c2439f3bd578264e18c31741c71308ea Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1780015441 -0300	commit: feat: create week 06 directory structure
+f52839f1c2439f3bd578264e18c31741c71308ea c2d13823ffcc50efad8491b1cf80a7fa08594673 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1780018501 -0300	commit: feat: add logging function and constants
+c2d13823ffcc50efad8491b1cf80a7fa08594673 42c690bf749a5216419049f7fd5fdd971976a078 Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1780019516 -0300	commit: fea: add directory existence and permission check
+42c690bf749a5216419049f7fd5fdd971976a078 3ee226f16cd39e3e4689bdc4d8e8a8f0c42927be Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1780024280 -0300	commit: feat: add backup file existence and content check
+3ee226f16cd39e3e4689bdc4d8e8a8f0c42927be 6055fb142b91074fa7cfd89bbcb425da0e922c7c Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1780025654 -0300	commit: feat: add backup age verification with find -mtime
+6055fb142b91074fa7cfd89bbcb425da0e922c7c 0db5475bde71afb3d9a6f933b9c064de8a83cb6e Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1780026120 -0300	commit: feat: add directory size check with du
+0db5475bde71afb3d9a6f933b9c064de8a83cb6e f536bc7682182be56ab1ce94077514dcc7d8ce0a Joelcolque-pila <joel.colque@sistemas.edu.bo.com> 1780027488 -0300	commit: feat: add README, commands-used and finalize script
